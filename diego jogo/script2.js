@@ -16,6 +16,9 @@ const seriesImages = [
     "imagem/level12.jpg",
     "imagem/level13.jpg",
     "imagem/level14.jpg",
+    "imagem/level15.webp",
+    "imagem/level16.png",
+    "imagem/level17.webp",
     // Adicione mais imagens de níveis aqui
 ];
 const seriesNames = [
@@ -33,6 +36,9 @@ const seriesNames = [
     "As Crônicas De Nárnia",
     "Harry Potter",
     "Close",
+    "O Chamado",
+    "Vermelho, Branco e Sangue Azul",
+    "A Morte do demonio",
     // Adicione mais nomes de séries aqui
 ]
 const optionsPerLevel = [
@@ -50,6 +56,9 @@ const optionsPerLevel = [
     ["As Crônicas De Nárnia", "Alice No País Das Maravilhas", "Com Amor, Simon"],
     ["Harry Potter", "A Escola Do Bem e o mal", "Senhor Dos Aneis"],
     ["Close", "A Cura", "Meu Primeiro Amor"],
+    ["O Grito", "O Chamado", "Venus"],
+    ["Hoje eu quero voltar sozinho", "Continencia ao amor", "Vermelho, Branco e Sangue Azul"],
+    ["A morte do demonio", "Mama", "Mariane"],
     // Adicione mais opções de múltipla escolha aqui
 ];
 
